@@ -90,12 +90,6 @@ Employee_Data_Analysis/
 3. Open the Jupyter Notebook.
 4. Run all the cells.
 
-## Future Improvements
-
-* Build a predictive machine learning model.
-* Create an interactive dashboard using Power BI or Tableau.
-* Deploy the analysis as a web application.
-
 ## Author
 
 Akriti Srivastava
